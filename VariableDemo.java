@@ -1,5 +1,5 @@
 package mod1.day5;
-
+//Tuesday, 10 August 2021
 import java.util.Scanner;
 
 public class VariableDemo {
