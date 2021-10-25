@@ -1,2 +1,2 @@
 # JavaPrograms-Eve
-Programming lessons
+Programming lessons by Sir Shoiab Haaris (Haarish Infotech, Chennai)
